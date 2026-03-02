@@ -1,4 +1,4 @@
-# [ICCV 2023] SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection
+SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection
 ![video](video.gif)
 
 ## Abstract
@@ -6,12 +6,7 @@ We propose SparseFusion, a novel multi-sensor 3D detection method that exclusive
 
 [[paper link]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_SparseFusion_Fusing_Multi-Modal_Sparse_Representations_for_Multi-Sensor_3D_Object_Detection_ICCV_2023_paper.pdf) [[Chinese summary (自动驾驶之心)]](https://zhuanlan.zhihu.com/p/671293323)
 
-## Updates
-[2023-8-21] Much better training GPU memory efficiency (45GB -> 29GB) with no hurt to the performance and speed!
-
-[2023-7-13] 🔥SparseFusion has been accepted to ICCV 2023!🔥
-
-[2023-3-21] We release the first version code of SparseFusion. 
+ We release the first version code of SparseFusion. 
 
 ## Overview
 ![teaser](teaser.png)
